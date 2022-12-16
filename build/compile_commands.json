@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/patchy/文档/C++_PROJECT/SkipList_KV/build",
+  "command": "/usr/lib64/ccache/clang++ -g -std=gnu++20 -o CMakeFiles/skiplist.dir/src/main.cpp.o -c /home/patchy/文档/C++_PROJECT/SkipList_KV/src/main.cpp",
+  "file": "/home/patchy/文档/C++_PROJECT/SkipList_KV/src/main.cpp"
+}
+]
